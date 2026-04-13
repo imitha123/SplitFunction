@@ -19,6 +19,7 @@ namespace SplitFunction
                                   "Debugging is the process of identifying and fixing errors"
 
             };
+            string words;
            
         }
     }
